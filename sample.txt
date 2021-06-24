@@ -2,13 +2,12 @@
 git commands are in the new_module
 
 
-git commands are as follows
+only 5 commands
 1.git init
 2.git add .
 3.git status
 4.git commit
 5.git rm
-6.git log
-7.git checkout
+ 
 
 
